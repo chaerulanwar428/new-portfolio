@@ -14,7 +14,8 @@ const About = () => {
           <h2 className='py-4'>Tentang Saya</h2>
           <p className='py-2 text-gray-600'>
           Sudah berpengalaman sebagai Front end Developer selama setengah tahun sebagai internship di PT 
-          Telekomunikasi Indonesia, Tbk. Mengembangkan aplikasi website dengan bahasa javascript dan 
+          Telekomunikasi Indonesia, Tbk dan dan internship 5 bulan di Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik 
+        Indonesia Direktorat Jendral Pendidikan Tinggi. Mengembangkan aplikasi website dengan bahasa javascript dan 
           framework NextJs. Meskipun begitu, saya tidak membatasi diri saya untuk mempelajari skill yang 
           baru. Bertanggung jawab melakukan problem solving untuk kasus-kasus bersama tim. Menyukai 
           explore mengenai pengembangan aplikasi website.

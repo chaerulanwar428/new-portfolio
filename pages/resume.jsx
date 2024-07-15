@@ -19,7 +19,7 @@ const resume = () => {
           <h2 className='text-center'>Chaerul Anwar</h2>
           <div className='flex'>
             <a
-              href='https://www.linkedin.com/in/chaerul-anwar-219182267/'
+              href='https://www.linkedin.com/in/chaerul-anwar428428/'
               target='_blank'
               rel='noreferrer'
             >
@@ -48,7 +48,8 @@ const resume = () => {
         </div>
         <p>
         Sudah berpengalaman sebagai Front end Developer selama setengah tahun sebagai internship di PT 
-        Telekomunikasi Indonesia, Tbk. Mengembangkan aplikasi website dengan bahasa javascript dan 
+        Telekomunikasi Indonesia, Tbk dan internship 5 bulan di Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik 
+        Indonesia Direktorat Jendral Pendidikan Tinggi. Mengembangkan aplikasi website dengan bahasa javascript dan 
         framework NextJs. Meskipun begitu, saya tidak membatasi diri saya untuk mempelajari skill yang 
         baru. Bertanggung jawab melakukan problem solving untuk kasus-kasus bersama tim. Menyukai 
         explore mengenai pengembangan aplikasi website.
@@ -72,6 +73,28 @@ const resume = () => {
           Pengalaman Kerja
         </h5>
         {/* Experience */}
+        <div className='py-6'>
+          <p className='italic'>
+            <span className='font-bold italic'>
+            Magang
+            </span>
+            <span className='px-2'>|</span>
+            Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia
+            Direktorat Jendral Pendidikan Tinggi
+          </p>
+          <p className='py-1 italic'>Front End Web Developer (Februari 2024 - Juli 2024)</p>
+          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+            <li>
+              Mengembangkan aplikasi website menggunakan NextJs.
+            </li>
+            <li>
+              Melakukan version control dan kolaborasi tim menggunakan Github.
+            </li>
+            <li>
+              Menyesuaikan pengembangan website yang sudah terdesign di Figma.
+            </li>
+          </ul>
+        </div>
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
